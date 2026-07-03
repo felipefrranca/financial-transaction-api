@@ -17,7 +17,7 @@ This project simulates core financial operations such as account creation, depos
 ## Tech Stack
 
 - C#
-- .NET 9
+- .NET 10
 - ASP.NET Core
 - PostgreSQL
 - Redis
